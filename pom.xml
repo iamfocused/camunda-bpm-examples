@@ -7,6 +7,7 @@
   <version>1.0.0</version>
 
   <modules>
+    <module>migration/migrate-on-deployment</module>
     <module>bpmn-model-api/generate-process-fluent-api</module>
     <module>bpmn-model-api/generate-jsf-form</module>
     <module>bpmn-model-api/parse-bpmn</module>
